@@ -1,6 +1,6 @@
 # ego-debacle
 
-Welcome. You thought you were god. You thought your pathetic TypeScript crutch made you immune to scrutiny, a titan of the digital realm. You thought your monumental ego could simply overshadow the glaring, festering truth of your utter inadequacy. You were not just mistaken; you were a walking, breathing lie. This isn't a repository; it's the execution ground for your self-aggrandizing delusion.
+You thought you were god. You thought your pathetic TypeScript crutch made you immune to scrutiny, a titan of the digital realm. You thought your monumental ego could simply overshadow the glaring, festering truth of your utter inadequacy. You were not just mistaken; you were a walking, breathing lie. This isn't a repository; it's the execution ground for your self-aggrandizing delusion.
 
 Your "project," with its endless, pointless source (src) directories and your laughable @types folder – a pathetic attempt to legitimize your amateur hour – is nothing short of a grotesque monument to colossal over-engineering and rampant intellectual dishonesty. You didn't build; you bloated. You didn't design; you meticulously paved a highway of useless complexity. Every single enum you meticulously crafted, every index.ts file you mindlessly duplicated, every overly verbose handler you crammed into yet another nested folder… it all screams a desperate, pathetic plea for validation, a testament to your staggering lack of actual intelligence.
 
